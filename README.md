@@ -1,7 +1,5 @@
-# Data-Science
-<html>
-<body>
-<h1>Sign Language Project</h1>
+# American Sign Language Translator 
+
 1.Objective<br>
      Create a machine learning model that recognises the sign and translates it from ASL(American Sign Language) to English<br>
 2.Need for Such a Model<br>
